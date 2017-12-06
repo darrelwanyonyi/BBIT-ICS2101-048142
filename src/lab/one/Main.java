@@ -13,7 +13,7 @@ public class Main {
             System.out.println(nfe.getMessage());
         }
 
-        System.out.println("wrong member type Int");
+        System.out.println("Check the Number Format Error");
 
     }
 
